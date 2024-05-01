@@ -27,6 +27,7 @@
         // 平均
         $score_average = $score_sum / 10;
 
+        // 出力
         echo '合計：' . $score_sum;
         echo '<br>';
         echo '平均：' . $score_average
